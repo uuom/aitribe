@@ -18,3 +18,6 @@ React-Native 实现的信部落客户端
 * [react-native-swiper](https://github.com/leecade/react-native-swiper)
 * [react-native-tab-navigator](https://github.com/exponent/react-native-tab-navigator)
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+
+####LICENSE
+[MIT](https://opensource.org/licenses/mit-license.html)
