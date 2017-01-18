@@ -6,11 +6,10 @@ React-Native 实现的信部落客户端
 
 ####项目截图：
 
-![application](https://github.com/uuom/aitribe/blob/master/screenshots//application.png)
-![s.png](https://github.com/uuom/aitribe/blob/master/screenshots/s.png)
-![tool.png](https://github.com/uuom/aitribe/blob/master/screenshots/tool.png)
-![me.png](https://github.com/uuom/aitribe/blob/master/screenshots/me.png)
-
+<img width="216" height="384" src="https://github.com/uuom/aitribe/blob/master/screenshots//application.png"/>
+<img width="216" height="384" src="https://github.com/uuom/aitribe/blob/master/screenshots//s.png"/>
+<img width="216" height="384" src="https://github.com/uuom/aitribe/blob/master/screenshots//tool.png"/>
+<img width="216" height="384" src="https://github.com/uuom/aitribe/blob/master/screenshots//me.png"/>
 
 ####感谢以下RN组件：
 * [react-native-grid-component](https://github.com/phil-r/react-native-grid-component)
