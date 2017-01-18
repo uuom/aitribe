@@ -7,7 +7,7 @@ React-Native 实现的信部落客户端
 ####项目截图：
 
 ![application](https://github.com/uuom/aitribe/blob/master/screenshots//application.png)
-![s.png](https://github.com/uuom/aitribe/blob/master/screenshots/aitribe/s.png)
+![s.png](https://github.com/uuom/aitribe/blob/master/screenshots/s.png)
 ![tool.png](https://github.com/uuom/aitribe/blob/master/screenshots/tool.png)
 ![me.png](https://github.com/uuom/aitribe/blob/master/screenshots/me.png)
 
